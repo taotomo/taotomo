@@ -1,5 +1,11 @@
 # Tomoya Ueda（上田 友也）
 
+### ポートフォリオサイト → **https://taotomo.github.io/portfolio/**
+
+制作物の詳細（課題・実装内容・詰まって解決した点）をまとめています。
+
+---
+
 京都在住の Web エンジニア志望です。
 PC のオンサイト修理・ヘルプデスク（約 1 年半）と、Zabbix を用いたネットワーク機器の 24 時間監視（約 8 ヶ月）を経験したあと、「守る側」から「作る側」へ移るため、2025 年から PHP / Laravel を中心に Web アプリ開発を学んでいます。
 
@@ -21,6 +27,7 @@ PC のオンサイト修理・ヘルプデスク（約 1 年半）と、Zabbix �
 | 2 | [time-card-app](https://github.com/taotomo/time-card-app) | 勤怠管理アプリ。出退勤・休憩の打刻、月次カレンダー、修正申請と承認、CSV 出力 | PHP 8.2 / Laravel 10 / MySQL 8.0 / Docker | 2026/1 |
 | 1 | [flea-market-app](https://github.com/taotomo/flea-market-app) | フリマアプリ。出品・購入・お気に入り・コメント、Stripe API による決済、メール認証 | PHP 8.2 / Laravel 8 / MySQL 8.0 / Docker / Stripe | 2025/12〜2026/1 |
 | 0 | [contact-form-app](https://github.com/taotomo/contact-form-app) | お問い合わせフォーム。Laravel を学び始めたころの最初のアプリ | PHP 8.2 / Laravel 8 / MySQL 8.0 / Docker | 2025/11〜12 |
+| — | [portfolio](https://github.com/taotomo/portfolio)（[公開サイト](https://taotomo.github.io/portfolio/)） | 上記の制作物をまとめたポートフォリオサイト。ビルド不要の静的サイトとして自作し、GitHub Pages で公開 | HTML / CSS / JavaScript / GitHub Pages | 2026/9 |
 
 ### 5 の店舗紹介サイトが非公開である理由
 
